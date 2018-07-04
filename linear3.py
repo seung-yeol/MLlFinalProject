@@ -82,3 +82,5 @@ for step in range(2001):
             i = i + 1
 
         print("일별 오차수", int(costt / (365*3)))
+
+
